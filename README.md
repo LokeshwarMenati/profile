@@ -1,9 +1,9 @@
- <h1 align="center">Hi 👋, I'm Shaik Raiyan</h2>
+ <h1 align="center">Hi 👋, I'm Lokeshwar Menati</h2>
 
 <!-- <hr>  -->
 
 <p align="center">
-  <em>B.Tech CSE | Full-Stack Developer | India.</em>
+  <em>B.Tech ECE | Web Developer | India.</em>
 </p> 
 
 <!---->
